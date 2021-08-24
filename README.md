@@ -1,1 +1,1 @@
-# web-dev-for-bigginer
+# web-dev-for-beginner
